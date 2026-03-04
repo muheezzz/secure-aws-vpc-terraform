@@ -1,5 +1,8 @@
 Secure AWS VPC Terraform Template
 
+## Architecture
+
+![AWS VPC Architecture](docs/architecture.png)
 
 ## Production Version
 

@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Terraform
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+crash.log
+.terraform.lock.hcl
+
+# CLI / editor
+*.log
+.vscode/
+.idea/

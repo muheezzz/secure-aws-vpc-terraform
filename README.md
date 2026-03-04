@@ -1,5 +1,5 @@
 Secure AWS VPC Terraform Template
-
+Production-ready AWS VPC Terraform template with public/private subnets, NAT gateway, and secure baseline configuration.
 ## Architecture
 
 ![AWS VPC Architecture](docs/architecture.png)
